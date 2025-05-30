@@ -37,7 +37,7 @@ This repository contains R script, RMarkdown (`.Rmd`) files, and their HTML outp
 - `*.html` — Rendered HTML outputs from the RMarkdown files
 
 ## Usage
-You can open and explore the `.Rmd` files in RStudio to interactively run and understand the code, or simply view the `.html` outputs for a static view.
+You can open and explore the `.Rmd` file in RStudio to interactively run and understand the code, or simply view the `.html` outputs for a static view.
 
 ---
 
