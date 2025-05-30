@@ -32,8 +32,8 @@ This repository contains R script, RMarkdown (`.Rmd`) files, and their HTML outp
 - `setequal()`: Check if two datasets have the same rows, regardless of order
 
 ## Files
-- `*.R` — R scripts with code examples
-- `*.Rmd` — RMarkdown files containing code, output, and explanations
+- `*.R` — R script with code examples
+- `*.Rmd` — RMarkdown file containing code, output, and explanations
 - `*.html` — Rendered HTML outputs from the RMarkdown files
 
 ## Usage
